@@ -84,7 +84,7 @@
 		<repository>
 			<id>anypoint-exchange-v3</id>
 			<name>Anypoint Exchange</name>
-			<url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+			<url>https://maven.anypoint.mulesoft.com/api/v3/organizations/286ae02f-c6a8-4af3-8009-b6d5ea83caee/maven</url>
 			<layout>default</layout>
 		</repository>
 		<repository>
